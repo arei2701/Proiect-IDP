@@ -1,7 +1,7 @@
 # Proiect-IDP
 Popa Andrei-Marius, 341C3
 
-![Architecture diagram](img1.png)
+![Architecture diagram](img2.png)
 
 -user app - aplicatie Python in care utilizatorii pot sa isi rezerve o masa la unul din restaurantele din baza de date;
 
